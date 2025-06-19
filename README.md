@@ -33,7 +33,8 @@ resting() 的秒數 300 (=5分鐘)
 ```
 
 
-# requ
+# requirement
 無需額外安裝套件，本程式使用 tkinter（Python 內建 GUI 套件）
 No need to install additional packages, this program uses tkinter (Python built-in GUI package)
 追加のパッケージをインストールする必要はありません。このプログラムはtkinter（Python組み込みGUIパッケージ）を使用します。
+
